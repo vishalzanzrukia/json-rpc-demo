@@ -7,9 +7,11 @@ It basically contains the dynamic web application environment done with Eclipse,
 * **Spring-security**
 * **Spring-social**
 * **JSP-Servlet API**
+* **JSTL**
+* **Log4J**
 * **Junit**
 
 #### Environment Used
 
 * **Eclipse Mars**
-* **Maven 3.2**
+* **Tomcat 7.0.45**
