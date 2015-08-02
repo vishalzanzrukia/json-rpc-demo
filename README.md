@@ -2,19 +2,19 @@ It basically contains the dynamic web application environment done with Eclipse,
 
 #### Dependencies Used
 
-* **Hibernate**
-* **Spring-framework**
-* **Spring-security**
-* **Spring-social**
-* **JSP-Servlet API**
-* **JSTL**
-* **Log4J**
-* **Junit**
+* Hibernate
+* Spring-framework
+* Spring-security
+* Spring-social
+* JSP-Servlet API
+* JSTL
+* Log4J
+* Junit
 
 #### Environment Used
 
-* **Eclipse Mars**
-* **Tomcat 7.0.45**
+* Eclipse Mars
+* Tomcat 7.0.45
 
 ### Troubleshooting
 
